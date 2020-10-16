@@ -7,6 +7,15 @@ Auto Import iin-use quasar comonents and directives
 Vuex, Axios, Vu-i18n
 Yarn
 
+# Added
+Dynamic Routes (SPA, PWA, etc)
+Quasar Conf
+    - vueRouterMode = history
+    - const path and quasar-env imported
+.env-sample
+    - API URL, PUBLIC URL
+Axios: env path ready
+
 # Future Updates
 .env Support
 Store Basics
